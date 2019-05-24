@@ -1,2 +1,2 @@
 # blog
-this is my first commin.
+this is my first commit.
